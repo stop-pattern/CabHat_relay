@@ -363,7 +363,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CabHat_Template.kicad_pro",
+    "filename": "CabHat_relay.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -498,6 +498,70 @@
     [
       "cef6f603-8a0b-4dd0-af99-ebfbef7d1b4b",
       ""
+    ],
+    [
+      "74a7c3da-ada6-4852-be62-5a05fee80e78",
+      "Relay1"
+    ],
+    [
+      "c73dcc99-d288-4968-ae0f-284524a848e9",
+      "Relay2"
+    ],
+    [
+      "14c905f8-281c-4e80-b66c-524cca755460",
+      "Relay3"
+    ],
+    [
+      "42f53637-6002-436f-8acd-0bb03de35d61",
+      "Relay4"
+    ],
+    [
+      "f4e5c12a-ee1b-4a73-9f4c-c33fe5b3e788",
+      "Relay5"
+    ],
+    [
+      "d5ce0ba5-6daa-4fa2-918e-71072e3ea53e",
+      "Relay6"
+    ],
+    [
+      "f8527eee-730b-4b8b-921a-17152cad412b",
+      "Relay7"
+    ],
+    [
+      "f06c3880-6021-48de-9571-5d705b55720b",
+      "Relay8"
+    ],
+    [
+      "4c2d583d-c3a0-4edb-a9ee-fa271087bf5b",
+      "Relay9"
+    ],
+    [
+      "56952487-45d4-4233-8934-a3befa75787c",
+      "Relay10"
+    ],
+    [
+      "63659172-f43e-4b21-828a-f3d6942f76d7",
+      "Relay11"
+    ],
+    [
+      "a07e4ef4-7d07-4876-823e-e3922dcfdfa0",
+      "Relay12"
+    ],
+    [
+      "2838d018-c3bd-4677-aa2c-52be1e0d4645",
+      "Relay13"
+    ],
+    [
+      "9f37d48b-5047-46fa-af53-b28d80e216b7",
+      "Relay14"
+    ],
+    [
+      "64619ff9-4dfb-43fe-a199-bd3910d97d12",
+      "Relay15"
+    ],
+    [
+      "0ca0ba7e-f8ce-4fb7-82a5-c01efc2a2660",
+      "Relay16"
     ]
   ],
   "text_variables": {

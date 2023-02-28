@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "CabHat_Template")
+    (title "CabHat_relay")
     (company "@stop_pattern")
   )
 
@@ -264,6 +264,24 @@
   (gr_arc locked (start 90.16 139.14) (mid 88.03868 138.26132) (end 87.16 136.14) (layer "Edge.Cuts") (width 0.05) (tstamp afe6fb0e-ed8e-4d6c-bd4a-9ec98c298f90))
   (gr_line locked (start 184.16 139.14) (end 90.16 139.14) (layer "Edge.Cuts") (width 0.05) (tstamp b84f9ff7-9a19-414d-bef2-6bee1d7cef7c))
   (gr_line locked (start 187.16 72.14) (end 187.16 136.14) (layer "Edge.Cuts") (width 0.05) (tstamp f0de4497-9e7b-4d8c-93c6-741c252ac556))
+  (dimension (type aligned) (layer "Dwgs.User") (tstamp b6cdb720-e338-4ce2-9535-c9b4c53c7871)
+    (pts (xy 87.16 139.14) (xy 187.16 139.14))
+    (height 15)
+    (gr_text "100.0000 mm" (at 137.16 152.99) (layer "Dwgs.User") (tstamp 078d46bb-6a9f-4fb7-9176-26b8e849e1c0)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.1) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
+  (dimension (type aligned) (layer "Dwgs.User") (tstamp e53f280b-4f68-4545-9fdf-4df2c163a00b)
+    (pts (xy 187.16 139.14) (xy 187.16 69.14))
+    (height 20)
+    (gr_text "70.0000 mm" (at 206.01 104.14 90) (layer "Dwgs.User") (tstamp eb1def09-cc2b-409b-a8a2-f84c4f8ad2d0)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.1) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
 
   (group "" locked (id a7affeaf-d5d0-44aa-bb45-a8e5940f4250)
     (members
